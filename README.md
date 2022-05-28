@@ -6,3 +6,6 @@
 Exercise
 - POJ2385 Apple catching
 - POJ2229 Sumsets
+
+
+- POJ2236
