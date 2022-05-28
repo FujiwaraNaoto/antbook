@@ -1,5 +1,9 @@
 /*
-P49 ABC252
+蟻本 P49 
+
+ABC252Fを参考
+証明については
+HuffmanCoding.md参照
 */
 #include<iostream>
 #include<vector>
