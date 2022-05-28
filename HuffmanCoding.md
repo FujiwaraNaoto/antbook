@@ -3,6 +3,7 @@ Ctrl + K の後に V
 
 ABC252
 -->
+<!-->
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 <script type="text/x-mathjax-config">
@@ -13,7 +14,7 @@ ABC252
  }
  });
 </script>
-
+-->
 ## ハフマン符号　
 
 以下の証明はハフマン符号がコンパクト符号である事の証明とほぼ同一です。
