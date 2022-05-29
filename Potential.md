@@ -24,27 +24,27 @@ $d_{i}^{\prime} +dist(i,j)^{\prime} \geq d_{j}^{\prime}$
 
 $d_{i}^{\prime}+dist'(i,j)+p_{i}-p_{j} \geq d'_{j}$
 
-$d'_{i} + p_{i} + dist'(i,j) \geq d'_{j}+p_{j}$
+$d_{i}^{\prime} + p_{i} + dist(i,j)^{\prime} \geq d_{j}^{\prime}+p_{j}$
 
-ここで $ans_{i} = d'_{i}+p_{i}$ とすると最短距離の定義を満たしている.しかし,このとき,
+ここで $ans_{i} = d_{i}^{\prime}+p_{i}$ とすると最短距離の定義を満たしている.しかし,このとき,
 
-$ans_{s}=d'_{s}+p_{s}=p_{s}$
+$ans_{s}=d_{s}^{\prime}+p_{s}=p_{s}$
 
 であるから$ans_{s}=0$を満たさない．
 
 そこで,全ての頂点$i$について
 
-$ans_{i}=d'_{i}+p_{i}-p_{s}$
+$ans_{i}=d_{i}^{\prime}+p_{i}-p_{s}$
 を計算すると
 
-$ans_{s}=d'_{s}+p_{s}-p_{s}=d'_{s}=0$
+$ans_{s}=d_{s}^{\prime}+p_{s}-p_{s}=d_{s}^{\prime}=0$
 
 であり,$ans$は最短経路を示すことになる.
 
 また,上記で定義された新しい辺の距離 
-$dist'_{i}$ で ダイクストラ法を用いたいため,$dist'_{i}$ が $0$以上であることが必須
+$dist_{i}^{\prime}$ で ダイクストラ法を用いたいため,$dist_{i}^{\prime}$ が $0$以上であることが必須
 
-$dist'(i,j)=dist(i,j)+p_{i}-p{j} \geq 0$
+$dist(i,j)^{\prime}=dist(i,j)+p_{i}-p{j} \geq 0$
 
 ここから
 
