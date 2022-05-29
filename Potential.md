@@ -18,7 +18,7 @@ $dist'(i,j)=dist(i,j)+p_{i}-p{j}$
 この時，当然$d'_{s}=0$となる.
 この際,以下の等式が成り立つ.
 
-$d'_{i} +dist'(i,j) \geq d'_{j}$
+$d_{i}^{\prime} +dist(i,j)^{\prime} \geq d_{j}^{\prime}$
 
 これより,以下変形
 
