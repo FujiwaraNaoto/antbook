@@ -1,6 +1,7 @@
 # 蟻本　c++ 
 
 - P49 Fence Repair
+- p73 Expedition
 - P137 Jessica's Reading Problem
 
 
