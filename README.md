@@ -6,7 +6,9 @@
 - p109 sugoroku
 - p131 Aggressive cows
 - P137 Jessica's Reading Problem
-
+- P287 Popular Cows
+- P288 2-SAT
+- P290 Priest John's Busiest Day
 
 
 Exercise
