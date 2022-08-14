@@ -74,5 +74,14 @@ int main(){
     }
     std::cout<<ans<<std::endl;
 
+    /*
+    //O(N^2)
+    ll ans=0;
+    for(int i=0;i<n;i++){
+        for(int j=0;j<i;j++){
+            ans++;
+        }
+    }
+    */
 
 }
