@@ -20,3 +20,7 @@ Exercise
 - POJ3181 DollarDays
 
 - POJ2236
+
+- POJ3259 Wormholes: bellmanford 
+- POJ2359 OutOfHay: クラスカル法
+- POJ2377 BadCowtractors :UnionFind
