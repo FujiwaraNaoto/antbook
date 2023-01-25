@@ -15,10 +15,12 @@
 
 
 Exercise
+- AOJ0525 Osenbei bitDP
+- AOJ0005 GCD and LCM
 - POJ2385 Apple catching
 - POJ2229 Sumsets
 - POJ3181 DollarDays
-
+- AOJ0189
 - POJ2236
 
 - POJ3259 Wormholes: bellmanford 
