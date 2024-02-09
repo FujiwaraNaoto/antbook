@@ -12,7 +12,7 @@
 - P287 Popular Cows
 - P288 2-SAT
 - P290 Priest John's Busiest Day
-
+- P300 スライド最小値
 
 Exercise
 - AOJ0525 Osenbei bitDP
@@ -26,3 +26,5 @@ Exercise
 - POJ3259 Wormholes: bellmanford 
 - POJ2359 OutOfHay: クラスカル法
 - POJ2377 BadCowtractors :UnionFind
+
+- AOJ2212 Stolen Jewel: Aho-Corasick法と幅優先探索
